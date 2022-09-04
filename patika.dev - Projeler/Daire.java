@@ -4,7 +4,7 @@ public class Daire {
     public static void main (String[] args) {
 
         // Değişkenleri tanımladık
-        double r, alan, cevre, pi = 3.14, angle;
+        double r, alan, pi = 3.14, angle;
 
         Scanner inp = new Scanner(System.in);
 
