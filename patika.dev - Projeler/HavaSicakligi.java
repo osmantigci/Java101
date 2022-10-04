@@ -5,10 +5,10 @@ public class HavaSicakligi {
         int heat;
 
 
-
         Scanner inp = new Scanner(System.in);
         System.out.println("Sıcaklık kaç derece? \n1-5 dereceden düşük\n2-5 ve 15 derece arasında\n3-15 ve 25 derece arasında\n4-25 dereceden fazla");
         System.out.print("Seçiminiz: ");
+
         heat = inp.nextInt();
 
 
